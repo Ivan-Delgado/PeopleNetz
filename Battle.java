@@ -1,3 +1,5 @@
-public class Battle {
+import javax.swing.JFrame;
+
+public class Battle extends JFrame{
 
 }
